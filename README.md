@@ -1,5 +1,6 @@
-<img width="100" height="120" alt="logo" src="https://github.com/user-attachments/assets/5a8d1681-c634-4968-a6b3-9860cc203f0a" />
 <div align="center">
+  
+  <img src="https://github.com/user-attachments/assets/5a8d1681-c634-4968-a6b3-9860cc203f0a" alt="NEXORA Logo" width="100" height="120"/>
 
   # NEXORA Desktop Assistant 🚀
 
