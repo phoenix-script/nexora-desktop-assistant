@@ -17,17 +17,17 @@
 
 <br>
 
-## 🌟 Nedir Bu NEXORA?
+## 🌟 Nedir Bu NEXORA Desktop Assistant?
 
-**NEXORA**, bilgisayar kullanımınızı kökten değiştiren, masaüstünüzde sizinle Türkçe sesli iletişim kurabilen akıllı bir yapay zeka asistanıdır. Kendi kendine internete bağlanarak anlık verileri çeker, bilgisayarınızdaki uygulamaları kontrol eder (RPA) ve tamamen karanlık cam (Dark Glassmorphism) konseptiyle göz alıcı bir arayüz sunar.
+**NEXORA Desktop Assistant**, bilgisayar kullanımınızı kökten değiştiren, masaüstünüzde sizinle Türkçe sesli iletişim kurabilen akıllı bir yapay zeka asistanıdır. Kendi kendine internete bağlanarak anlık verileri çeker, bilgisayarınızdaki uygulamaları kontrol eder (RPA) ve tamamen karanlık cam (Dark Glassmorphism) konseptiyle göz alıcı bir arayüz sunar.
 
-> "Demir Adam'ın J.A.R.V.I.S.'i varsa, sizin de NEXORA'nız var."
+> "Iron Man'ın J.A.R.V.I.S.'i varsa, sizin de NEXORA Desktop Assistant'nız var."
 
 ---
 
 ## ✨ Öne Çıkan Özellikler
 
-- 🎙️ **Canlı Ses İşleme (Vosk):** Klavyeye dokunmanıza gerek yok. NEXORA'ya seslenin, sizi anlasın ve Türkçe yanıtlasın.
+- 🎙️ **Canlı Ses İşleme (Vosk):** Klavyeye dokunmanıza gerek yok. NEXORA Desktop Assistant'ya seslenin, sizi anlasın ve Türkçe yanıtlasın.
 - 🌐 **Gerçek Zamanlı Web Taraması:** "Bugün Fenerbahçe'nin maçı var mı?", "İstanbul'da hava nasıl?" gibi anlık bilgi gerektiren soruları saniyeler içinde internetten bulup size özetler.
 - 💻 **Akıllı Masaüstü Otomasyonu (RPA):** "Spotify'ı aç", "Sesi sonuna kadar kıs" veya "Bana sabah kahvesi rutinimdeki şarkıları çal" deyin ve arkanıza yaslanın.
 - 📊 **Sistem Sağlığı İzleme:** CPU, RAM ve Ağ Hızı kullanımlarını, en çok bellek tüketen sorunlu uygulamaları saniyesi saniyesine raporlar.
@@ -38,41 +38,18 @@
 
 ## 🚀 Kurulum (Kullanıcılar İçin)
 
-Herhangi bir kod yazmanıza veya kütüphane kurmanıza gerek yoktur. NEXORA, **tek tıkla çalışacak şekilde** paketlenmiştir.
+Herhangi bir kod yazmanıza veya kütüphane kurmanıza gerek yoktur. NEXORA Desktop Assistant, **tek tıkla çalışacak şekilde** paketlenmiştir.
 
 1. Sağ taraftaki **[Releases](https://github.com/phoenix-script/nexora-desktop-assistant/releases)** sekmesine tıklayın.
 2. En güncel sürüme (v1.0.0) girip `NEXORA_Setup.exe` dosyasını indirin.
 3. Çift tıklayarak kurulum sihirbazını başlatın ve "İleri" diyerek masaüstünüze kurun.
-4. Kısayola tıklayın ve NEXORA ile konuşmaya başlayın!
-
----
-
-## 🛠️ Kurulum (Geliştiriciler İçin)
-
-Projeyi kendi bilgisayarınızda geliştirmek veya kodları incelemek isterseniz:
-
-```bash
-# 1. Repoyu bilgisayarınıza indirin
-git clone https://github.com/phoenix-script/nexora-desktop-assistant.git
-
-# 2. Klasöre girin
-cd nexora
-
-# 3. Gerekli kütüphaneleri yükleyin
-pip install -r requirements.txt
-
-# 4. Asistanı başlatın
-python main.py
-```
-
-### Projeyi Yeniden Derlemek
-Kendinize özel değişiklikler yaptıktan sonra EXE dosyası çıkartmak için klasördeki `build.bat` dosyasını çalıştırmanız yeterlidir.
+4. Kısayola tıklayın ve NEXORA Desktop Assistant ile konuşmaya başlayın!
 
 ---
 
 ## 🤝 Katkıda Bulunma (Contributing)
 
-NEXORA tamamen topluluk desteğine açık bir projedir! Bir hata bulduysanız veya yepyeni bir özellik eklediyseniz, lütfen **Pull Request (PR)** göndermekten çekinmeyin. Birlikte çok daha akıllı bir asistan geliştirebiliriz!
+NEXORA Desktop Assistant tamamen topluluk desteğine açık bir projedir! Bir hata bulduysanız veya yepyeni bir özellik eklediyseniz, lütfen **Pull Request (PR)** göndermekten çekinmeyin. Birlikte çok daha akıllı bir asistan geliştirebiliriz!
 
 ---
 
