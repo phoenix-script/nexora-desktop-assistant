@@ -37,8 +37,8 @@
 - 🌐 **Gerçek Zamanlı Web Taraması:** "Bugün Fenerbahçe'nin maçı var mı?", "İstanbul'da hava nasıl?" gibi anlık bilgi gerektiren soruları saniyeler içinde internetten bulup size özetler.
 - 💻 **Akıllı Masaüstü Otomasyonu (RPA):** "Spotify'ı aç", "Mikrofonu kapat" veya "Bana sabah kahvesi rutinimdeki şarkıları çal" deyin ve arkanıza yaslanın.
 - 📊 **Sistem Sağlığı İzleme:** CPU, RAM ve Ağ Hızı kullanımlarını saniyesi saniyesine raporlar.
-- 🔄 **Oto-Güncelleme (Auto-Update):** GitHub üzerinden sürekli kendini yeniler. Yeni bir özellik geldiğinde sizi yormadan kendini günceller.
 - 🎨 **Premium Arayüz:** Modern "Dark Glassmorphism" stili ve akıcı yapay zeka ses dalgaları (Waveform) ile muazzam bir görsel deneyim sunar.
+- 🎨 **Vb.:** Daha bir sürü özellik.
 
 ---
 
