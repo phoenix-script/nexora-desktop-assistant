@@ -19,7 +19,7 @@
 <div align="center">
   <img width="1351" height="840" alt="{3E1FF22A-E4AD-4051-8C31-FE26B0FDABDC}" src="https://github.com/user-attachments/assets/fa5dbce7-801c-474f-a0fe-bad6190ec3c2" />
   <br>
-  <i>"Karanlık cam (Dark Glassmorphism) ve akıcı ses dalgaları konsepti ile fütüristik bir deneyim."</i>
+  <i>"Kişisel Masaüstü Yapay Zeka Asistanınız"</i>
 </div>
 <br>
 
