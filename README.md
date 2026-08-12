@@ -38,7 +38,7 @@
 - 💻 **Akıllı Masaüstü Otomasyonu (RPA):** "Spotify'ı aç", "Mikrofonu kapat" veya "Bana sabah kahvesi rutinimdeki şarkıları çal" deyin ve arkanıza yaslanın.
 - 📊 **Sistem Sağlığı İzleme:** CPU, RAM ve Ağ Hızı kullanımlarını saniyesi saniyesine raporlar.
 - 🎨 **Premium Arayüz:** Modern "Dark Glassmorphism" stili ve akıcı yapay zeka ses dalgaları (Waveform) ile muazzam bir görsel deneyim sunar.
-- 🎨 **Vb.:** Daha bir sürü özellik.
+- ➕ **Vb.:** Daha bir sürü özellik.
 
 ---
 
