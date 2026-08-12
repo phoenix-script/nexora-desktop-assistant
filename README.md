@@ -6,7 +6,7 @@
 
   **Tamamen Türkçe, Sesli, Akıllı ve Fütüristik Masaüstü Yapay Zeka Asistanınız.**
 
-  [![Version](https://img.shields.io/badge/Versiyon-1.0.0-blue.svg?style=for-the-badge)](https://github.com/phoenix-script/nexora-desktop-assistant/releases)
+  [![Version](https://img.shields.io/badge/Versiyon-1.1.4-blue.svg?style=for-the-badge)](https://github.com/phoenix-script/nexora-desktop-assistant/releases)
   [![Platform](https://img.shields.io/badge/Platform-Windows_10%20%7C%2011-0078D6?style=for-the-badge&logo=windows)](https://github.com/phoenix-script/nexora-desktop-assistant/releases)
   [![License](https://img.shields.io/badge/Lisans-MIT-green.svg?style=for-the-badge)](#)
   [![Python](https://img.shields.io/badge/Python-3.12-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
