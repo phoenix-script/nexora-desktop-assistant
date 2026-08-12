@@ -42,7 +42,7 @@
 
 ---
 
-## 🚀 Kurulum (Kullanıcılar İçin)
+## 🚀 Kurulum
 
 Herhangi bir kod yazmanıza veya kütüphane kurmanıza gerek yoktur. NEXORA Desktop Assistant, **tek tıkla çalışacak şekilde** paketlenmiştir.
 
@@ -53,9 +53,9 @@ Herhangi bir kod yazmanıza veya kütüphane kurmanıza gerek yoktur. NEXORA Des
 
 ---
 
-## 🤝 Katkıda Bulunma (Contributing)
+## 🤝 Katkıda Bulunma
 
-NEXORA Desktop Assistant tamamen topluluk desteğine açık bir projedir! Bir hata bulduysanız veya yepyeni bir özellik eklediyseniz, lütfen **Pull Request (PR)** göndermekten çekinmeyin. Birlikte çok daha akıllı bir asistan geliştirebiliriz!
+NEXORA Desktop Assistant tamamen topluluk desteğine açık bir projedir! Bir hata bulduysanız veya yepyeni bir özellik eklediyseniz, lütfen **Geri Bildirim** göndermekten çekinmeyin. Birlikte çok daha akıllı bir asistan geliştirebiliriz!
 
 ---
 
